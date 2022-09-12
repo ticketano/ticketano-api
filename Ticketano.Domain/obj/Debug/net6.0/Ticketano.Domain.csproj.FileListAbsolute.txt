@@ -1,0 +1,15 @@
+/home/aslan/projects/Ticketano/Ticketano.Domain/bin/Debug/net6.0/Ticketano.Domain
+/home/aslan/projects/Ticketano/Ticketano.Domain/bin/Debug/net6.0/Ticketano.Domain.deps.json
+/home/aslan/projects/Ticketano/Ticketano.Domain/bin/Debug/net6.0/Ticketano.Domain.runtimeconfig.json
+/home/aslan/projects/Ticketano/Ticketano.Domain/bin/Debug/net6.0/Ticketano.Domain.dll
+/home/aslan/projects/Ticketano/Ticketano.Domain/bin/Debug/net6.0/ref/Ticketano.Domain.dll
+/home/aslan/projects/Ticketano/Ticketano.Domain/bin/Debug/net6.0/Ticketano.Domain.pdb
+/home/aslan/projects/Ticketano/Ticketano.Domain/obj/Debug/net6.0/Ticketano.Domain.csproj.AssemblyReference.cache
+/home/aslan/projects/Ticketano/Ticketano.Domain/obj/Debug/net6.0/Ticketano.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/aslan/projects/Ticketano/Ticketano.Domain/obj/Debug/net6.0/Ticketano.Domain.AssemblyInfoInputs.cache
+/home/aslan/projects/Ticketano/Ticketano.Domain/obj/Debug/net6.0/Ticketano.Domain.AssemblyInfo.cs
+/home/aslan/projects/Ticketano/Ticketano.Domain/obj/Debug/net6.0/Ticketano.Domain.csproj.CoreCompileInputs.cache
+/home/aslan/projects/Ticketano/Ticketano.Domain/obj/Debug/net6.0/Ticketano.Domain.dll
+/home/aslan/projects/Ticketano/Ticketano.Domain/obj/Debug/net6.0/ref/Ticketano.Domain.dll
+/home/aslan/projects/Ticketano/Ticketano.Domain/obj/Debug/net6.0/Ticketano.Domain.pdb
+/home/aslan/projects/Ticketano/Ticketano.Domain/obj/Debug/net6.0/Ticketano.Domain.genruntimeconfig.cache

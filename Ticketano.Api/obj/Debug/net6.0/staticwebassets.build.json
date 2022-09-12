@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4PY/W1kojmlJoR6u5jYkiShZume+FKvkwQV4a/R7T3k=",
+  "Source": "Ticketano.Api",
+  "BasePath": "_content/Ticketano.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
